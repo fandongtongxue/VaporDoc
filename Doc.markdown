@@ -19,12 +19,12 @@ tags:
 ## 目录
 ### [概述（Overview）](http://www.jianshu.com/p/0c0c6554e472)
 ### 准备开始（Getting started）
-#### [在Mac上安装](http://blog.fandong.me/2017/08/03/iOS-SwiftVaporWeb01/)
-#### [在Ubuntu上安装](http://blog.fandong.me/2017/08/04/iOS-SwiftVaporWeb02/)
-#### [工具箱](http://blog.fandong.me/2017/08/04/iOS-SwiftVaporWeb03/)
-#### [Hello World](http://blog.fandong.me/2017/08/04/iOS-SwiftVaporWeb04/)
-#### [手动](http://blog.fandong.me/2017/08/06/iOS-SwiftVaporWeb05/)
-#### [Xcode](http://blog.fandong.me/2017/08/06/iOS-SwiftVaporWeb06/)
+#### [在Mac上安装](https://github.com/fandongtongxue/VaporDoc/blob/master/Getting%20Started/01Install%20Mac%20OS.markdown)
+#### [在Ubuntu上安装](https://github.com/fandongtongxue/VaporDoc/blob/master/Getting%20Started/02Install%20Ubuntu.markdown)
+#### [工具箱](https://github.com/fandongtongxue/VaporDoc/blob/master/Getting%20Started/03ToolBox.markdown)
+#### [Hello World](https://github.com/fandongtongxue/VaporDoc/blob/master/Getting%20Started/04Hello%20World.markdown)
+#### [手动](https://github.com/fandongtongxue/VaporDoc/blob/master/Getting%20Started/05Manual.markdown)
+#### [Xcode](https://github.com/fandongtongxue/VaporDoc/blob/master/Getting%20Started/06Xcode.markdown)
 ### Vapor
 ### Configs（配置文件）
 ### JSON
