@@ -24,6 +24,7 @@ tags:
 #### [Xcode](https://github.com/fandongtongxue/VaporDoc/blob/master/Getting%20Started/06Xcode.markdown)
 ### Vapor
 ### Configs（配置文件）
+#### [Configs](https://github.com/fandongtongxue/VaporDoc/blob/master/Config/Config.markdown)
 ### JSON
 ### Routing（路由）
 ### Fluent
