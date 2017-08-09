@@ -38,6 +38,7 @@ tags:
 ### Routing（路由）
 #### [Package](https://github.com/fandongtongxue/VaporDoc/blob/master/Routing/01Package.markdown)
 #### [Overview](https://github.com/fandongtongxue/VaporDoc/blob/master/Routing/02Overview.markdown)
+#### [Parameters](https://github.com/fandongtongxue/VaporDoc/blob/master/Routing/03Parameters.markdown)
 ### Fluent
 ### Cache
 ### MySQL
