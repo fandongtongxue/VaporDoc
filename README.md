@@ -35,11 +35,15 @@ tags:
 #### [Configs](https://github.com/fandongtongxue/VaporDoc/blob/master/Config/Config.markdown)
 ### JSON
 #### [Package](http://www.jianshu.com/p/87a42c06df7d)
+#### [Overview](http://www.jianshu.com/p/95430b8e6026)
 ### Routing（路由）
 #### [Package](https://github.com/fandongtongxue/VaporDoc/blob/master/Routing/01Package.markdown)
 #### [Overview](https://github.com/fandongtongxue/VaporDoc/blob/master/Routing/02Overview.markdown)
 #### [Parameters](https://github.com/fandongtongxue/VaporDoc/blob/master/Routing/03Parameters.markdown)
 ### Fluent
+#### [Package](http://www.jianshu.com/p/5a2f6965f73b)
+#### [Get Started](http://www.jianshu.com/p/f590e6449e47)
+#### [Model](http://www.jianshu.com/p/a919cd994f5b)
 ### Cache
 ### MySQL
 ### Redis
