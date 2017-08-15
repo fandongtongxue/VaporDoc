@@ -63,8 +63,11 @@ tags:
 #### [Package](http://www.jianshu.com/p/0d4344e0f1a0)
 #### [Provider](http://www.jianshu.com/p/900e80cce498)
 ### JWT
+#### [Package](https://github.com/fandongtongxue/VaporDoc/blob/master/JWT/01Package.markdown)
+#### [Overview](https://github.com/fandongtongxue/VaporDoc/blob/master/JWT/02Overview.markdown)
 ### Session
 ### HTTP
+#### [Package](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/01Package.markdown)
 ### Leaf
 ### Validation
 ### Node
