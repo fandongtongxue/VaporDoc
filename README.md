@@ -77,6 +77,7 @@ tags:
 #### [Package](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/01Package.markdown)
 #### [Request](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/02Request.markdown)
 #### [Response](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/03Response.markdown)
+#### [Middleware](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/04Middleware.markdown)
 ### Leaf
 #### [Package](http://www.jianshu.com/p/5f631eac999f)
 #### [Provider](http://www.jianshu.com/p/7e6c2c587899)
