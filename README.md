@@ -79,6 +79,11 @@ tags:
 #### [Response](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/03Response.markdown)
 #### [Middleware](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/04Middleware.markdown)
 #### [Body](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/05Body.markdown)
+#### [ResponseRepresentable](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/06ResponseRepresentable.markdown)
+#### [Responder](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/07Responder.markdown)
+#### [Client](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/08Client.markdown)
+#### [Server](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/09Server.markdown)
+#### [CORS](https://github.com/fandongtongxue/VaporDoc/blob/master/HTTP/10CORS.markdown)
 ### Leaf
 #### [Package](http://www.jianshu.com/p/5f631eac999f)
 #### [Provider](http://www.jianshu.com/p/7e6c2c587899)
