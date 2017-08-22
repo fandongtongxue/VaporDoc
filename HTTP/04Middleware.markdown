@@ -17,7 +17,7 @@ tags:
 后来从朋友[韩云智VL](http://www.jianshu.com/u/92f7630a351b)那里知道了这个框架，竟是用Swift写的，不得不说，它燃起了我的兴趣。
 [Vapor](http://vapor.codes)是一个基于Swift开发的服务端框架，可以工作于iOS，Mac OS，Ubuntu。
 为了配合Swift部署到服务器,我把ECS的服务器系统改为Ubuntu16.04。
-> [Vapor 2.0 - 文档目录](http://blog.fandong.me/2017/08/01/iOS-SwiftVaporWeb/)
+> [Vapor 2.0 - 文档目录](https://github.com/fandongtongxue/VaporDoc/blob/master/README.md)
 > 以下文字翻译自[Vapor Docs/HTTP/Middle](https://docs.vapor.codes/2.0/http/middleware/)
 
 ## 中间件
@@ -151,9 +151,9 @@ authed.get("secure") { req in
     return Secrets.all().makeJSON()
 }
 ```
-添加到`authed`组的任何内容都必须通过`AuthMiddleware`.因此,我们可以假定所有访问`/secure`的流量已经被授权了,了解更多请查看[路由](http://blog.fandong.me/2017/08/12/iOS-SwiftVaporWeb11/)
+添加到`authed`组的任何内容都必须通过`AuthMiddleware`.因此,我们可以假定所有访问`/secure`的流量已经被授权了,了解更多请查看[路由](https://github.com/fandongtongxue/VaporDoc/blob/master/Routing/04Group.markdown)
 ### 配置
-你可以使用[配置](https://docs.vapor.codes/2.0/configs/config/)文件来启用或禁用中间件,如果你有中间件,例如,仅在生产环境中运行,这将非常有用.
+你可以使用[配置](https://github.com/fandongtongxue/VaporDoc/blob/master/Config/Config.markdown)文件来启用或禁用中间件,如果你有中间件,例如,仅在生产环境中运行,这将非常有用.
 添加可配置的中间件,像下面这样
 
 ```
