@@ -94,13 +94,20 @@ tags:
 ### Node
 #### [Package](http://www.jianshu.com/p/9156c55afe84)
 #### [Getting Started](http://www.jianshu.com/p/33c0544aa9ac)
-### Code
+### Core
+#### [Package](https://github.com/fandongtongxue/VaporDoc/blob/master/Core/01Package.markdown)
+#### [Overview](https://github.com/fandongtongxue/VaporDoc/blob/master/Core/02Overview.markdown)
 ### Bits
 #### [Package](http://www.jianshu.com/p/d119e9939d1e)
 #### [Overview](http://www.jianshu.com/p/7af1d3dbbd78)
 ### Debugging
+#### [Package](https://github.com/fandongtongxue/VaporDoc/blob/master/Debugging/01Package.markdown)
+#### [Overview](https://github.com/fandongtongxue/VaporDoc/blob/master/Debugging/02Overview.markdown)
 ### Deploy(部署)
 #### [Nginx](http://www.jianshu.com/p/e211efa92785)
 #### [Supervisor](http://www.jianshu.com/p/ac02861cba4d)
 ### Version(2.0)
+#### [1.5](https://docs.vapor.codes/2.0/version/1_5/)
+#### [2.0](https://docs.vapor.codes/2.0/version/2_0/)
+#### [Support](https://docs.vapor.codes/2.0/version/support/)
 
